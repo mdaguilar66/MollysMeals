@@ -1,4 +1,5 @@
 import React from 'react';
+import './Business.css';
 
 
 // This component will show how one restaurant is formatted
@@ -41,3 +42,6 @@ class Business extends React.Component {
     );
   }
 }
+
+// export the business component
+export default Business;
